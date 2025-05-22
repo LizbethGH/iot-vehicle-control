@@ -1,4 +1,4 @@
-const API_URL = "http://44.204.95.140:5000/api/devices";
+const API_URL = "http://13.220.64.141:5000/api/devices";
 let ipPublica = "";
 
 // Obtener la IP pública del cliente
