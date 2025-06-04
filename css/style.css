@@ -1,3 +1,13 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+h1, h2, h4, h5, p {
+  color: #000000;
+}
+
 .btn-purple {
   background-color: #6f42c1;
   color: white;
@@ -5,7 +15,7 @@
 
 .btn-yellow {
   background-color: #ffc107;
-  color: black;
+  color: white;
 }
 
 .btn-blue {
@@ -15,4 +25,19 @@
 
 .bg-teal {
   background-color: #20c997;
+  color: white;
+}
+
+.slider-grueso {
+  height: 1.5rem;
+}
+
+.btn-grabar {
+  background-color: #FF6B6B;
+  color: white;
+}
+
+.btn-limpiar {
+  background-color: #77DD77;
+  color: white;
 }
