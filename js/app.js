@@ -1,5 +1,5 @@
 const API_URL = "http://3.235.95.58:5000/api/devices";
-const API_ESTADO = "http://44.222.248.238:5000/api/estado_grabacion";
+const API_ESTADO = "http://3.235.95.58:5000/api/estado_grabacion";
 let ipPublica = "";
 let movimientosGrabados = [];
 let grabando = false;
